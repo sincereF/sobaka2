@@ -1,0 +1,22 @@
+vs code
+php server расширение 
+
+php в диске c
+
+php.ini открыть искать 
+
+; On windows:
+extension_dir = "C:\php\ext"
+
+extension=mysqli (убрать ;)
+
+
+php.ini-development --- php.ini (копировать и менять выше)
+
+
+расширение 
+C:\php\php.ini
+C:\php\php.exe
+
+
+git clone https://github.com/cannlz/site
